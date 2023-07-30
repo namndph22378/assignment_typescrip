@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Nguyễn Đức Nam",
+      "id": 12
+    },
+    {
+      "name": "Bàn phím",
+      "price": "123",
+      "id": 13
+    },
+    {
+      "name": "Đức Nam 123",
+      "price": "6666",
+      "id": 14
+    }
+  ]
+}
